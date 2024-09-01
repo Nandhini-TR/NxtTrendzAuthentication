@@ -1,0 +1,40 @@
+.home-body-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 90%;
+  height: 80%;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  max-width: 600px;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.description {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+
+.shop-now-button {
+  width: 100px;
+  height: 30px;
+  border: 0px none;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.clothes-get-noticed-image {
+  height: 60%;
+}
